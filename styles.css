@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    background-image: radial-gradient(whitesmoke, #475569);
+}
+.info {
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #333;
+}
+
+img {
+    max-width: 100%;
+}
+
+p {
+    font-weight: bold;
+}
